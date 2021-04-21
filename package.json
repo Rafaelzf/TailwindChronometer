@@ -21,5 +21,10 @@
   "bugs": {
     "url": "https://github.com/Rafaelzf/TailwindChronometer/issues"
   },
-  "homepage": "https://github.com/Rafaelzf/TailwindChronometer#readme"
+  "homepage": "https://github.com/Rafaelzf/TailwindChronometer#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.2.5",
+    "postcss": "^8.2.10",
+    "tailwindcss": "^2.1.1"
+  }
 }
