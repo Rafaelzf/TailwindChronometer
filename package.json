@@ -1,0 +1,25 @@
+{
+  "name": "tailwindchronometer",
+  "version": "1.0.0",
+  "description": "Stopwatch made in Vanilla JS and CSS framework tailwind css",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rafaelzf/TailwindChronometer.git"
+  },
+  "keywords": [
+    "vanillaJS",
+    "TailwindCSS",
+    "ES6",
+    "Javascript"
+  ],
+  "author": "Rafael Zanini Francucci",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rafaelzf/TailwindChronometer/issues"
+  },
+  "homepage": "https://github.com/Rafaelzf/TailwindChronometer#readme"
+}
